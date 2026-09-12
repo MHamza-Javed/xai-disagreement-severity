@@ -1,0 +1,30 @@
+# Raw dataset (too large, publicly downloadable separately)
+data/mvtec_ad/
+data/preprocessed/
+data/ground_truth_masks/
+
+# Model checkpoints (large binary files)
+models/**/*.pth
+models/**/*.pt
+
+# XAI heatmap arrays (large, regenerable via generate_xai_heatmaps.py)
+xai_outputs/**/*.npy
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+.venv/
+venv/
+env/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db

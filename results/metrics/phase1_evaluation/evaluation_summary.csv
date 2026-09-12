@@ -1,0 +1,5 @@
+category,architecture,overall_acc,good_acc,defective_acc,n_correct_defective,n_total_defective,flagged_low_sample
+hazelnut,resnet18,1.0,1.0,1.0,36,36,False
+hazelnut,vit,0.9692307692307692,0.9655172413793104,0.9722222222222222,35,36,False
+screw,resnet18,0.9772727272727273,1.0,0.9655172413793104,56,58,False
+screw,vit,0.7045454545454546,0.7666666666666667,0.6724137931034483,39,58,False

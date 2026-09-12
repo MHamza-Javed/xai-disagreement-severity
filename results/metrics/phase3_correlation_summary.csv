@@ -1,0 +1,9 @@
+category,architecture,metric,spearman_rho,p_value,n_samples,significant
+hazelnut,resnet18,iou_disagreement,-0.14157925249730421,0.4101344937104066,36,False
+hazelnut,resnet18,spearman_disagreement,-0.28676234051272165,0.08994784349098721,36,False
+hazelnut,vit,iou_disagreement,0.11877582492885418,0.49677084609068217,35,False
+hazelnut,vit,spearman_disagreement,0.2794313334116321,0.10402003199438602,35,False
+screw,resnet18,iou_disagreement,0.12909731072414715,0.3429958073554035,56,False
+screw,resnet18,spearman_disagreement,0.015278394994358955,0.9110130717984752,56,False
+screw,vit,iou_disagreement,-0.03907871550124549,0.8132802327632156,39,False
+screw,vit,spearman_disagreement,-0.12644900430325287,0.4430410460741645,39,False
