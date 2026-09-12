@@ -132,9 +132,7 @@ python check_screw_resnet18_by_defect_type.py
 
 ---
 
-## License
 
-[Specify your license here, e.g., MIT]
 
 ## Acknowledgments
 
